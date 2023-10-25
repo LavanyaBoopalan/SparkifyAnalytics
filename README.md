@@ -68,10 +68,10 @@ Other files present in the workspace:
 
 Following analysis are performed on the  analytical tables:
 
-Usecase 1: Total Number of records in the Staging tables & Dimensional tables
-Usecase 2: What time of the day is the more number of users listening to the song
-Usecase 3: Analyse the details of the free subscription users
-Usecase 4: Analyse the most popular artist in the songplay
+Usecase 1: Total Number of records in the Staging tables & Dimensional tables<br>
+Usecase 2: What time of the day is the more number of users listening to the song<br>
+Usecase 3: Analyse the details of the free subscription users<br>
+Usecase 4: Analyse the most popular artist in the songplay<br>
 
 **analytics.ipynb **- This script can be run for performing analysis on the analytical tables.
 
